@@ -1,6 +1,6 @@
 # Proyecto-piedra-pepel-o-tijeras
 # Descripción del Proyecto
-Este proyecto es un simple juego de Piedra, Papel o Tijera desarrollado en Python. Permite al usuario jugar múltiples rondas contra el ordenador, mostrando los resultados de cada jugada y determinando el ganador de cada ronda. se añadio otro .py que añade lagarto & spock pero al vesviarse de la intencion del proyecto y ser solo un codigo extra de practica no esta añadido al proyecto final
+Este proyecto es un simple juego de Piedra, Papel o Tijera desarrollado en Python. Permite al usuario jugar múltiples rondas contra el ordenador, mostrando los resultados de cada jugada y determinando el ganador de cada ronda. se añadio otro .py que añade lagarto & spock pero al vesviarse de la intencion del proyecto y al ser solo un codigo extra de practica  y al no tener el suficiente tiempo para corregir el video final no esta añadido al proyecto final.
 
 # Objetivo del Programa
 El objetivo del programa es proporcionar una implementación básica del juego de Piedra, Papel o Tijera que permita la interacción del usuario y la repetición del juego. Este proyecto también tiene fines educativos, demostrando conceptos básicos de programación como bucles, condicionales y manejo de entrada/salida en Python.
